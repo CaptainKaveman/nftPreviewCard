@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![1440px Screen Size](./screenshots/screenshot1440.png)
-![375px Screen Size - Mobile](./screenshots/screenshot375.png)
+![1440px Screen Size](./screenshots/screenshot1440.png)![375px Screen Size - Mobile](./screenshots/screenshot375.png)
 
 ### Links
 
@@ -77,7 +76,9 @@ The most challenging part for me on this project was getting the view icon with 
 
 I had tried adding an inset box-shadow for the hover effect, but it also shadowed the view icon. Might be worth some more research to see if it is possible to use this method as well. The code I used in the class for the box-shadow is below.
 
+```css
 box-shadow: inset 0 0 0 100vmax var(--primary-clr-cyan-hover);
+```
 
 ### Continued development
 
