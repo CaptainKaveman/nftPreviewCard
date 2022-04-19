@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![1440px Screen Size](./screenshots/screenshot1440.png) 
-<img src="./screenshots/screenshot375.png" width="375" />
+<img src="./screenshots/screenshot375.png" width="175" />
 
 ### Links
 
